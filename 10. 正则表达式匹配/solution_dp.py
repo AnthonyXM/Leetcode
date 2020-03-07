@@ -1,3 +1,4 @@
+# 动态规划，注意初始条件
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         # 注意".*"可匹配任意字符串（匹配机制应该是先复制前面的"."

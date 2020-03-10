@@ -2,5 +2,5 @@
 
 |题号|难度|解法|
 |:-:|:-:|:-:|
-|1. 两数之和|Easy||
-|2. 两数相加|Medium||
+|1. 两数之和|Easy|[穷举](https://github.com/AnthonyXM/Leetcode/blob/master/Solutions/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/solution.c)|
+|2. 两数相加|Medium|[按位加法器](https://github.com/AnthonyXM/Leetcode/blob/master/Solutions/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/solution.cpp)|

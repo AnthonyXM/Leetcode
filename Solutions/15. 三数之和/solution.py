@@ -1,6 +1,6 @@
-# 三数之和为0 = 两数之和为...
-# 两数之和为... = 存在一个数是...
+from typing import List
+
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        h = {}
+        nums.sort()
         
